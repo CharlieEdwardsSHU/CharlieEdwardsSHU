@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Charlie Edwards
+- 👀 I’m interested in video games and coding.
+- 🌱 I’m currently learning how to create games on my MComp Computer Science for Games degree.
+- 📫 C0003418@my.shu.ac.uk
